@@ -46,7 +46,7 @@ This resource will eventually be part of a larger Scam Awareness Hub that includ
 
 ---
 
-## 🗂 Project Structure
+## Project Structure
 /Miami_University_Scam_Awareness_Resource_Page
 │
 ├── index.html        # Main FAQ page
