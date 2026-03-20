@@ -1,7 +1,5 @@
 # Miami_University_Scam_Awareness_Resource_Page
 
-# Miami University Scam Awareness Resource Page
-
 This project is part of a student-led initiative to support Miami University students in identifying and avoiding job‑search scams, especially those appearing on Handshake or through email. The goal is to provide a clear, accessible, and student‑friendly resource that breaks down common red flags, offers real examples, and connects students with the correct Miami support offices.
 
 This is the first iteration of the Scam Awareness FAQ page, created for review by:
