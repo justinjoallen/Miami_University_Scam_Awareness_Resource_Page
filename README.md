@@ -65,17 +65,6 @@ If you're reviewing this project:
 3. Review layout, content, and usability  
 4.
 
-
----
-
-## Next Steps
-
-- Incorporate feedback from Rachel, Allison, and CIT 268 students  
-- Finalize content and accessibility updates  
-- Prepare physical handout and QR code  
-- Record and edit the short informational video  
-- Deliver final materials to Career Services  
-
 ---
 
 ## Author
