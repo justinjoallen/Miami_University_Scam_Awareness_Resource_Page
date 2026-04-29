@@ -19,12 +19,6 @@ Students across Miami’s campuses regularly encounter fake job postings, phishi
 - Connect students with the correct Miami University resources  
 - Improve student safety and confidence during the job search process  
 
-This resource will eventually be part of a larger Scam Awareness Hub that includes:
-- A digital FAQ (this page)
-- A physical handout with a QR code
-- A short informational video
-- A feedback loop with Career Services and CIT 268 students
-
 ---
 
 ## What This Page Includes
